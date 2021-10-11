@@ -31,9 +31,9 @@
 |          | Easy hacks to get involved                            | Jan ‘Kendy’ Holesovsky |
 |    ☑️     | Community website – how to edit it                    | Pedro Silva            |
 |          | Document searching                                    | Tomaz Vajngerl         |
-|          | Notebookbar Structure                                 | Andreas Kainz          |
+|    ☑️     | Notebookbar Structure                                 | Andreas Kainz          |
 |          | Nextcloud integration update                          | Julius Härtl           |
-|          | EGroupware integration update                         | Birgit Becker          |
+|    ☑️     | EGroupware integration update                         | Birgit Becker          |
 |          | Mattermost integration update                         | Chetanya Kandhari      |
 |          | Moodle integration update                             | Ashod Nakashian        |
 |          | Collabora Online and WOPI in ownCloud Infinite Scale  | Willy Kloucek          |
