@@ -1,7 +1,7 @@
 | Uploaded | Presentation                                          | Speaker                |
 |----------|-------------------------------------------------------|------------------------|
 |          | Opening Session                                       | Jan ‘Kendy’ Holesovsky |
-|          | Mobile design improvements                            | Pedro Silva            |
+|     ☑️    | Mobile design improvements                            | Pedro Silva            |
 |          | SDK: creating a new integration                       | Marco Cecchetti        |
 |          | Cypress tests – howto, notebookbar & more …           | Rashesh Padia          |
 |          | Canvas for rendering UX                               | Gokay Satir            |
@@ -25,11 +25,11 @@
 |          | Symfony bundle intergrating WOPI and Collabora Online | Pol Dellaiera          |
 |          | Multi-page PDF viewing                                | Gokay Satir            |
 |          | How to bisect your bug to a single patch              | Nnamani Ezinne         |
-|          | Desktop design improvements                           | Pedro Silva            |
-|          | User sentiment reporting                              | Pedro Silva            |
+|    ☑️     | Desktop design improvements                           | Pedro Silva            |
+|    ☑️     | User sentiment reporting                              | Pedro Silva            |
 |          | Setting up your own Collabora Online                  | Aron Budea             |
 |          | Easy hacks to get involved                            | Jan ‘Kendy’ Holesovsky |
-|          | Community website – how to edit it                    | Pedro Silva            |
+|    ☑️     | Community website – how to edit it                    | Pedro Silva            |
 |          | Document searching                                    | Tomaz Vajngerl         |
 |          | Notebookbar Structure                                 | Andreas Kainz          |
 |          | Nextcloud integration update                          | Julius Härtl           |
