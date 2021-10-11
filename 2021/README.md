@@ -9,7 +9,7 @@
 |     ☑️    | Kubernetes setup & deployment                         | Pranam Lashkari        |
 |     ☑️    | iOS new features                                      | Tor Lillqvist          |
 |     ☑️    | Canvas Overlays and Improvements                      | Dennis Francis         |
-|          | How COOL is used in 1&1                               | Alexandru Vlăduţu      |
+|     ☑️    | How COOL is used in 1&1                               | Alexandru Vlăduţu      |
 |          | Android new features                                  | Mert Tümer             |
 |     ☑️    | Fuzzing / asan / string-vectors                       | Miklos Vajna           |
 |          | Translating Collabora website                         | Rute Correia           |
@@ -24,7 +24,7 @@
 |    ☑️     | Rendering wasteage and performance wins               | Lubos Lunak            |
 |          | Symfony bundle intergrating WOPI and Collabora Online | Pol Dellaiera          |
 |    ☑️     | Multi-page PDF viewing                                | Gokay Satir            |
-|          | How to bisect your bug to a single patch              | Nnamani Ezinne         |
+|    ☑️     | How to bisect your bug to a single patch              | Nnamani Ezinne         |
 |    ☑️     | Desktop design improvements                           | Pedro Silva            |
 |    ☑️     | User sentiment reporting                              | Pedro Silva            |
 |    ☑️     | Setting up your own Collabora Online                  | Aron Budea             |
