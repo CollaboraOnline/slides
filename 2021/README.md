@@ -22,7 +22,7 @@
 |    ☑️     | Async-save design                                     | Ashod Nakashian        |
 |    ☑️     | Macro Dialog feature                                  | Henry Castro           |
 |    ☑️     | Rendering wasteage and performance wins               | Lubos Lunak            |
-|          | Symfony bundle intergrating WOPI and Collabora Online | Pol Dellaiera          |
+| [Demo](https://wopi-app.herokuapp.com/) | Symfony [bundle](https://github.com/champs-libres/wopi-bundle) intergrating WOPI and Collabora Online | Pol Dellaiera          |
 |    ☑️     | Multi-page PDF viewing                                | Gokay Satir            |
 |    ☑️     | How to bisect your bug to a single patch              | Nnamani Ezinne         |
 |    ☑️     | Desktop design improvements                           | Pedro Silva            |
