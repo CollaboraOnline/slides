@@ -3,14 +3,14 @@
 |     ☑️    | Opening Session                                       | Jan ‘Kendy’ Holesovsky |
 |     ☑️    | Mobile design improvements                            | Pedro Silva            |
 |     ☑️    | SDK: creating a new integration                       | Marco Cecchetti        |
-|          | Cypress tests – howto, notebookbar & more …           | Rashesh Padia          |
+|     ☑️    | Cypress tests – howto, notebookbar & more …           | Rashesh Padia          |
 |     ☑️    | Canvas for rendering UX                               | Gokay Satir            |
-|          | Editing simulation                                    | Mert Tümer             |
+|     ☑️    | Editing simulation                                    | Mert Tümer             |
 |     ☑️    | Kubernetes setup & deployment                         | Pranam Lashkari        |
 |     ☑️    | iOS new features                                      | Tor Lillqvist          |
 |     ☑️    | Canvas Overlays and Improvements                      | Dennis Francis         |
 |     ☑️    | How COOL is used in 1&1                               | Alexandru Vlăduţu      |
-|          | Android new features                                  | Mert Tümer             |
+|     ☑️    | Android new features                                  | Mert Tümer             |
 |     ☑️    | Fuzzing / asan / string-vectors                       | Miklos Vajna           |
 |          | Translating Collabora website                         | Rute Correia           |
 |    ☑️    | New sidebar & dialog backend                          | Szymon Klos            |
