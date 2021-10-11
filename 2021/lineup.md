@@ -2,7 +2,7 @@
 |----------|-------------------------------------------------------|------------------------|
 |          | Opening Session                                       | Jan ‘Kendy’ Holesovsky |
 |     ☑️    | Mobile design improvements                            | Pedro Silva            |
-|          | SDK: creating a new integration                       | Marco Cecchetti        |
+|     ☑️    | SDK: creating a new integration                       | Marco Cecchetti        |
 |          | Cypress tests – howto, notebookbar & more …           | Rashesh Padia          |
 |          | Canvas for rendering UX                               | Gokay Satir            |
 |          | Editing simulation                                    | Mert Tümer             |
