@@ -17,8 +17,8 @@
 |          | Collabora Online Forum update                         | Mike Kagansky          |
 |          | How to get involved in translation                    | Andras Timar           |
 |          | Stability & cleanup improvements in Online            | Gabriel Masei          |
-|    ☑️     | OOXML document analysis                               | Gülşah Köse            |
-|          | Performance improvements                              | Tor Lillqvist          |
+|          | OOXML document analysis                               | Gülşah Köse            |
+|    ☑️     | Performance improvements                              | Tor Lillqvist          |
 |          | Async-save design                                     | Ashod Nakashian        |
 |          | Macro Dialog feature                                  | Henry Castro           |
 |          | Rendering wasteage and performance wins               | Lubos Lunak            |
