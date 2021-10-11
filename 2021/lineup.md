@@ -8,7 +8,7 @@
 |          | Editing simulation                                    | Mert Tümer             |
 |          | Kubernetes setup & deployment                         | Pranam Lashkari        |
 |          | iOS new features                                      | Tor Lillqvist          |
-|          | Canvas Overlays and Improvements                      | Dennis Francis         |
+|     ☑️    | Canvas Overlays and Improvements                      | Dennis Francis         |
 |          | How COOL is used in 1&1                               | Alexandru Vlăduţu      |
 |          | Android new features                                  | Mert Tümer             |
 |          | Fuzzing / asan / string-vectors                       | Miklos Vajna           |
