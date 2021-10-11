@@ -13,7 +13,7 @@
 |          | Android new features                                  | Mert Tümer             |
 |          | Fuzzing / asan / string-vectors                       | Miklos Vajna           |
 |          | Translating Collabora website                         | Rute Correia           |
-|          | New sidebar & dialog backend                          | Szymon Klos            |
+|    ☑️    | New sidebar & dialog backend                          | Szymon Klos            |
 |          | Collabora Online Forum update                         | Mike Kagansky          |
 |          | How to get involved in translation                    | Andras Timar           |
 |          | Stability & cleanup improvements in Online            | Gabriel Masei          |
