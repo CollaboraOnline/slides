@@ -20,7 +20,7 @@
 |          | OOXML document analysis                               | Gülşah Köse            |
 |    ☑️     | Performance improvements                              | Tor Lillqvist          |
 |          | Async-save design                                     | Ashod Nakashian        |
-|          | Macro Dialog feature                                  | Henry Castro           |
+|    ☑️     | Macro Dialog feature                                  | Henry Castro           |
 |          | Rendering wasteage and performance wins               | Lubos Lunak            |
 |          | Symfony bundle intergrating WOPI and Collabora Online | Pol Dellaiera          |
 |          | Multi-page PDF viewing                                | Gokay Satir            |
