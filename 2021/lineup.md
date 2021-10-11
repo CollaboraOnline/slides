@@ -11,7 +11,7 @@
 |     ☑️    | Canvas Overlays and Improvements                      | Dennis Francis         |
 |          | How COOL is used in 1&1                               | Alexandru Vlăduţu      |
 |          | Android new features                                  | Mert Tümer             |
-|          | Fuzzing / asan / string-vectors                       | Miklos Vajna           |
+|     ☑️    | Fuzzing / asan / string-vectors                       | Miklos Vajna           |
 |          | Translating Collabora website                         | Rute Correia           |
 |    ☑️    | New sidebar & dialog backend                          | Szymon Klos            |
 |          | Collabora Online Forum update                         | Mike Kagansky          |
