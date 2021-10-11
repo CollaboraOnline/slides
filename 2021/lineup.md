@@ -7,7 +7,7 @@
 |          | Canvas for rendering UX                               | Gokay Satir            |
 |          | Editing simulation                                    | Mert Tümer             |
 |          | Kubernetes setup & deployment                         | Pranam Lashkari        |
-|          | iOS new features                                      | Tor Lillqvist          |
+|     ☑️    | iOS new features                                      | Tor Lillqvist          |
 |          | Canvas Overlays and Improvements                      | Dennis Francis         |
 |          | How COOL is used in 1&1                               | Alexandru Vlăduţu      |
 |          | Android new features                                  | Mert Tümer             |
@@ -17,7 +17,7 @@
 |          | Collabora Online Forum update                         | Mike Kagansky          |
 |          | How to get involved in translation                    | Andras Timar           |
 |          | Stability & cleanup improvements in Online            | Gabriel Masei          |
-|          | OOXML document analysis                               | Gülşah Köse            |
+|    ☑️     | OOXML document analysis                               | Gülşah Köse            |
 |          | Performance improvements                              | Tor Lillqvist          |
 |          | Async-save design                                     | Ashod Nakashian        |
 |          | Macro Dialog feature                                  | Henry Castro           |
