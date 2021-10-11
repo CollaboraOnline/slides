@@ -36,5 +36,5 @@
 |    ☑️     | EGroupware integration update                         | Birgit Becker          |
 |          | Mattermost integration update                         | Chetanya Kandhari      |
 |    ☑️     | Moodle integration update                             | Ashod Nakashian        |
-|          | Collabora Online and WOPI in ownCloud Infinite Scale  | Willy Kloucek          |
+|    ☑️     | Collabora Online and WOPI in ownCloud Infinite Scale  | Willy Kloucek          |
 |    ☑️     | Closing session                                       | Michael Meeks          |
