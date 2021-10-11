@@ -32,7 +32,7 @@
 |    ☑️     | Community website – how to edit it                    | Pedro Silva            |
 |    ☑️     | Document searching                                    | Tomaz Vajngerl         |
 |    ☑️     | Notebookbar Structure                                 | Andreas Kainz          |
-|          | Nextcloud integration update                          | Julius Härtl           |
+|    ☑️     | Nextcloud integration update                          | Julius Härtl           |
 |    ☑️     | EGroupware integration update                         | Birgit Becker          |
 |          | Mattermost integration update                         | Chetanya Kandhari      |
 |    ☑️     | Moodle integration update                             | Ashod Nakashian        |
