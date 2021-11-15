@@ -4,7 +4,7 @@ Slides from COOL Days conferences
 
 <img src="https://raw.githubusercontent.com/CollaboraOnline/slides/main/static/images/cool-days-event-dev-logo.svg" alt="" style="min-width: 100%;">
 
-## Wath all the talks
+## Watch all the talks
 
 [![Youtube playlist with all the talks](https://user-images.githubusercontent.com/65948705/141762263-905879dc-67aa-434c-b4b3-b93f90a8d4e8.png)](https://www.youtube.com/watch?v=oIpE1IvBbj8&list=PLeh8MeOzF8jals5oAfZlYmksVaLfY6Wxv)
 
