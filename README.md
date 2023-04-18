@@ -6,7 +6,13 @@ Slides from COOL Days conferences
 
 ## Watch all the talks
 
-[![2021 Youtube playlist with all the talks](https://user-images.githubusercontent.com/65948705/141762263-905879dc-67aa-434c-b4b3-b93f90a8d4e8.png)](https://www.youtube.com/watch?v=oIpE1IvBbj8&list=PLeh8MeOzF8jals5oAfZlYmksVaLfY6Wxv)
+| Year ↓ | Youtube playlist |
+| ------ | ---------------- |
+|  2023  | [COOL Days 2023](https://www.youtube.com//watch?v=wU_fKnOE7F4&list=PLeh8MeOzF8jYRtIey5burxuM431tnLXF4) |
+|  2022  | [COOL Days Technical Talks 2022](https://www.youtube.com//watch?v=K8mAEuPlhUA&list=PLeh8MeOzF8jZVz8OLWASvtmKJzz-P_Wb_) |
+|  2021  | [COOL Days 2021 - The full experience](https://www.youtube.com/watch?v=wmPNkr1jJBU&list=PLeh8MeOzF8jaxehVuqm6-CsV0TcMCpEuT) |
+|  2021  | [COOL Days 2021 - Developers Day](https://www.youtube.com//watch?v=oIpE1IvBbj8&list=PLeh8MeOzF8jals5oAfZlYmksVaLfY6Wxv) |
+|  2021  | [COOL Days 2021 🆒 Business Day #COOLdays](https://www.youtube.com/watch?v=EsNDbI1qFq0&list=PLeh8MeOzF8jafge4ZJ2JFoNuGEP5xjAZN) |
 
 
 
