@@ -6,14 +6,14 @@ Slides from COOL Days conferences
 
 ## Watch all the talks
 
-| Year ↓ | Youtube playlist |
-| ------ | ---------------- |
-|  2024  | [#COOLDays 2024 Online Presentations](https://www.youtube.com/watch?v=2UxHPb6P9kc&list=PLeh8MeOzF8jbSyVSbG6iQr4_KC_pcUI2g) |
-|  2023  | [COOL Days 2023](https://www.youtube.com//watch?v=wU_fKnOE7F4&list=PLeh8MeOzF8jYRtIey5burxuM431tnLXF4) |
-|  2022  | [COOL Days Technical Talks 2022](https://www.youtube.com//watch?v=K8mAEuPlhUA&list=PLeh8MeOzF8jZVz8OLWASvtmKJzz-P_Wb_) |
-|  2021  | [COOL Days 2021 - The full experience](https://www.youtube.com/watch?v=wmPNkr1jJBU&list=PLeh8MeOzF8jaxehVuqm6-CsV0TcMCpEuT) |
-|  2021  | [COOL Days 2021 - Developers Day](https://www.youtube.com//watch?v=oIpE1IvBbj8&list=PLeh8MeOzF8jals5oAfZlYmksVaLfY6Wxv) |
-|  2021  | [COOL Days 2021 🆒 Business Day #COOLdays](https://www.youtube.com/watch?v=EsNDbI1qFq0&list=PLeh8MeOzF8jafge4ZJ2JFoNuGEP5xjAZN) |
+| Year ↓ | Slides | Youtube playlist |
+| ------ | ------ | ---------------- |
+|  2024  |  [Slides](https://github.com/CollaboraOnline/slides/tree/main/2024)  |[#COOLDays 2024 Online Presentations](https://www.youtube.com/watch?v=2UxHPb6P9kc&list=PLeh8MeOzF8jbSyVSbG6iQr4_KC_pcUI2g) |
+|  2023  | [Slides](https://github.com/CollaboraOnline/slides/tree/main/2023)  | [COOL Days 2023](https://www.youtube.com//watch?v=wU_fKnOE7F4&list=PLeh8MeOzF8jYRtIey5burxuM431tnLXF4) |
+|  2022  | [Slides](https://github.com/CollaboraOnline/slides/tree/main/2022)  | [COOL Days Technical Talks 2022](https://www.youtube.com//watch?v=K8mAEuPlhUA&list=PLeh8MeOzF8jZVz8OLWASvtmKJzz-P_Wb_) |
+|  2021  | [Slides](https://github.com/CollaboraOnline/slides/tree/main/2021)  | [COOL Days 2021 - The full experience](https://www.youtube.com/watch?v=wmPNkr1jJBU&list=PLeh8MeOzF8jaxehVuqm6-CsV0TcMCpEuT) |
+|  2021  | [Slides](https://github.com/CollaboraOnline/slides/tree/main/2021)  | [COOL Days 2021 - Developers Day](https://www.youtube.com//watch?v=oIpE1IvBbj8&list=PLeh8MeOzF8jals5oAfZlYmksVaLfY6Wxv) |
+|  2021  | [Slides](https://github.com/CollaboraOnline/slides/tree/main/2021)  | [COOL Days 2021 🆒 Business Day #COOLdays](https://www.youtube.com/watch?v=EsNDbI1qFq0&list=PLeh8MeOzF8jafge4ZJ2JFoNuGEP5xjAZN) |
 
 
 
