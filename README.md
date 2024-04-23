@@ -2,7 +2,7 @@
 
 Slides from COOL Days conferences
 
-<img src="https://raw.githubusercontent.com/CollaboraOnline/slides/main/static/images/cool-days-event-dev-logo.svg" alt="" style="min-width: 100%;">
+<img src="https://raw.githubusercontent.com/CollaboraOnline/slides/main/static/images/cooldays-april-2024.jpeg" alt="" style="min-width: 100%;">
 
 ## Watch all the talks
 
