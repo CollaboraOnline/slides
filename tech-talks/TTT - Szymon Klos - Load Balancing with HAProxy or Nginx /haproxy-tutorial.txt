@@ -1,0 +1,61 @@
+HAPROXY + COOL TUTORIAL
+==========================================================
+
+I used custom domains configured on my DNS server for readability.
+
+HAPROXY SERVER: haproxyexample.example.com
+NEXTCLOUD SERVER: nextcloud.example.com
+COOL1 SERVER: cool1.example.com
+COOL2 SERVER: cool2.example.com
+
+USED DISTRO: UBUNTU 23.10.1
+
+Setup:
+
+               nextcloud.example.com
+                        |
+            haproxyexample.example.com
+                |                |
+       cool1.example.com     cool2.example.com
+
+==========================================================
+
+1. install docker/podman:
+   sudo apt-get install podman
+   sudo systemctl start podman
+
+2. pull required container images:
+   podman pull docker.io/nextcloud:latest
+   podman pull docker.io/collabora/code:23.05.9.1.1
+   podman pull docker.io/haproxy:2.3
+
+3. setup cool nodes as in: https://sdk.collaboraonline.com/docs/installation/CODE_Docker_image.html
+   podman run --privileged --name cool1 -e "extra_params=--o:ssl.enable=false" -t -d -p 9981:9980 docker.io/collabora/code:23.05.9.1.1
+   
+   podman run --privileged --name cool2 -e "extra_params=--o:ssl.enable=false" -t -d -p 9982:9980 docker.io/collabora/code:23.05.9.1.1
+
+4. setup haproxy:
+   a) create Dockerfile as in: https://hub.docker.com/_/haproxy/
+
+   b) create haproxy.cfg as in: https://sdk.collaboraonline.com/docs/installation/Proxy_settings.html#example-with-haproxy
+
+   c) build image:
+   podman build -t my-haproxy .
+   
+   d) check configuration file:
+   podman run -it --rm --name haproxy-syntax-check my-haproxy haproxy -c -f /usr/local/etc/haproxy/haproxy.cfg
+
+   e) start haproxy:
+   podman run -d --name haproxy-server -p 9980:9980 my-haproxy
+
+5. setup nextcloud:
+   a) podman run --name nextcloud-server -dt -p 8080:80/tcp docker.io/nextcloud:latest
+   
+   b) open in the browser: http://nextcloud.example.com:8080/ and finish setup
+
+   c) in nextcloud -> apps install "Nextcloud Office"
+
+   d) in nextcloud -> administration settings -> office setup cool server URL to haproxy address:
+      http://haproxyexample.example.com:9980
+
+Now you should be able to use COOL in Nextcloud.
