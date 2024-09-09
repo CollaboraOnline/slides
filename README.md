@@ -8,9 +8,14 @@ Welcome to Collabora Online Tech Talks: come hear about LibreOffice technology, 
 
 <img src="https://raw.githubusercontent.com/CollaboraOnline/slides/main/static/images/yt_channel_banner.jpeg" alt="" style="min-width: 100%;">
 
-[**Tech Talks' Youtube channel**](https://www.youtube.com/@CollaboraOnlineTechTalks/videos)
+Head over to the [**Tech Talks' Youtube channel**](https://www.youtube.com/@CollaboraOnlineTechTalks/videos) or [browse slide decks](https://github.com/CollaboraOnline/slides/tree/main/tech-talks).
 
 These talks are live streamed everyweek: https://collaboraonline.github.io/post/communicate/
+
+### For Presenters
+
+1. Upload your slides to the slides/tech-talks folder
+2. Use a sensible format. Generally speaking PDF or ODP are probably the best choice
 
 
 ## Watch all COOL Days talks
@@ -28,7 +33,7 @@ These talks are live streamed everyweek: https://collaboraonline.github.io/post/
 
 
 
-## For Presenters
+### For Presenters
 
 1. Upload your slides to the respective folder (202x presentation goes into the 202x folder)
 2. Add a ☑️ to the respective row in the /202x/README.md
