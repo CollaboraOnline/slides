@@ -5,6 +5,7 @@ Slides from COOL Days conferences and [Tech Talks' Youtube channel](https://www.
 ## Watch tech talks on Youtube
 
 Welcome to Collabora Online Tech Talks: come hear about LibreOffice technology, Collabora Online, understand how the code works, and how to get involved with core development.
+
 <img src="https://raw.githubusercontent.com/CollaboraOnline/slides/main/static/images/yt_channel_banner.jpeg" alt="" style="min-width: 100%;">
 
 [**Tech Talks' Youtube channel**](https://www.youtube.com/@CollaboraOnlineTechTalks/videos)
